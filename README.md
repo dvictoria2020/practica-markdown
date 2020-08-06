@@ -5,3 +5,8 @@
 ## Hipervinculos
 ## Imágenes
 ## Listas
+
+#Encabezado nivel 1
+##Encabezado nivel 2
+### Encabezado nivel3
+######Encabezado nivel 4
