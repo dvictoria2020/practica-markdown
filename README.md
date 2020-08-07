@@ -20,12 +20,15 @@ Negrita
 
 
 ##texto en negrita e itálica
+
 _**texto en negrita e itálica**_
 
-## Citas textuales
 
->_En un lugar de La Mancha_
->_"... de cuyo nombre no quiero acordarme..."
+Citas textuales
+>"En un lugar de La Mancha,
+>" de cuyo nombre no quiero acordarme..."
+
+Miguel de Cervantes (1605)
 
 ## Hipervinculos
 [Sitio web de la UNA] (https://www.una.ac.cr/)
