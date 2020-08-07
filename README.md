@@ -34,8 +34,10 @@ _*** texto en negrita e itálica***_
 ![](img7rlogo.png)
 
 
-## Listas
-
+## Listas numeradas
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento 
 
 #HTML
 <h1>Encabezado de nivel 1</h1>
@@ -45,3 +47,6 @@ _*** texto en negrita e itálica***_
 
 <strong>texto en negrita<strong
 <en> texto en itálica
+  
+  html imagenes
+  <img src="img/rlogo.png" alt="Logo de R"
