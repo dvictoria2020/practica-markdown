@@ -30,6 +30,9 @@ _*** texto en negrita e itálica***_
 ## Listas
 
 
-
-
+#HTML
+<h1>Encabezado de nivel 1</h1>
+<h2>Encabezado de nivel 2</h2>
+...
+<h6>Encabezado de nivel 6</h6>
 
