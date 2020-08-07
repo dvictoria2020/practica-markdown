@@ -41,11 +41,11 @@ _*** texto en negrita e itálica***_
 
 ## Listas no numeradas
 - Primer elemento
--1.1
+1.1
 - Segundo elemento
-- 1.2
+1.2
 - Tercer elemento
-- 1.3
+1.3
 
 
 #HTML
