@@ -11,8 +11,8 @@
 *Texto en itálica*   
 _Otro texto en itálica
 
-##Negritas
-**texto en negrita**
+**Negritas**
+_Otro texto en negrita_
 
 
 ##texto en negrita e itálica
