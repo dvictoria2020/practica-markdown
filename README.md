@@ -1,6 +1,6 @@
-# Práctica de uso de la sintaxis Markdown
+# Práctica de uso de la sintaxis MarkdowN
 
-## Encabezados
+Encabezados
 
 # Encabezado nivel 1
 ## Encabezado nivel 2
@@ -9,7 +9,7 @@
 ##### Encabezado nivel 5
 ###### Encabezado nivel 6
 
-## Negritas
+
 ## Italicas 
 *Texto en itálica*   
 _Otro texto en itálica
