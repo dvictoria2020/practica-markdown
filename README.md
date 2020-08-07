@@ -36,3 +36,5 @@ _*** texto en negrita e itálica***_
 ...
 <h6>Encabezado de nivel 6</h6>
 
+<strong>texto en negrita<strong
+<en> texto en itálica
