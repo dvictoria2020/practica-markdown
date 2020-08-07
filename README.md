@@ -26,9 +26,12 @@ _*** texto en negrita e itálica***_
 ## Hipervinculos
 [Sitio web de la UNA] (https://www.una.ac.cr/)
 
-<a href="https://www.una.ac.cr/">Sitio web UNA!</a>
+<a href=href="https://www.una.ac.cr/">Sitio web UNA en la misma ventana!</a>
+<a href="https://www.una.ac.cr/>Sitio web UNA en la misma ventana!</a>
 
 ## Imágenes
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
+
 ## Listas
 
 
