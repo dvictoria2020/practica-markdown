@@ -31,7 +31,7 @@ _*** texto en negrita e itálica***_
 
 ## Imágenes
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
-![](rlogo.png)
+![](img7rlogo.png)
 
 
 ## Listas
