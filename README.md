@@ -14,12 +14,13 @@ Italicas
 *Texto en itálica*   
 _Otro texto en itálica_
 
-**Negritas**
-_Otro texto en negrita_
+Negrita
+**Texto en negrita**
+**Otro texto en negrita**
 
 
 ##texto en negrita e itálica
-_*** texto en negrita e itálica***_
+_**texto en negrita e itálica**_
 
 ## Citas textuales
 
