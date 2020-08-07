@@ -21,4 +21,4 @@ _Otro texto en itálica
 
 
 ##texto en negrita e itálica
-*** texto en negrita e itálica***
+_*** texto en negrita e itálica***_
