@@ -55,11 +55,8 @@ Hipervinculos
 
 ## Listas no numeradas
 - Primer elemento
- 1.1
 - Segundo elemento
- 1.2
 - Tercer elemento
- 1.3
 
 
 #HTML
