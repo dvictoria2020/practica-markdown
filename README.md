@@ -14,3 +14,7 @@
 
 ## Italicas 
 *Texto en itálica*   
+_Otro texto en itálica
+
+##Negritas
+**texto en negrita**
