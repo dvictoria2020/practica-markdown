@@ -1,19 +1,12 @@
 # Práctica de uso de la sintaxis Markdown
 ## Encabezados
-## Negritas
-## Citas textuales
-
->_En un lugar de La Mancha_
-## Hipervinculos
-## Imágenes
-## Listas
 
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
 ###### Encabezado nivel 4
 
-
+## Negritas
 ## Italicas 
 *Texto en itálica*   
 _Otro texto en itálica
@@ -24,4 +17,18 @@ _Otro texto en itálica
 
 ##texto en negrita e itálica
 _*** texto en negrita e itálica***_
+
+## Citas textuales
+
+>_En un lugar de La Mancha_
+
+## Hipervinculos
+[Sitio web de la UNA] (https://www.una.ac.cr/)
+
+## Imágenes
+## Listas
+
+
+
+
 
